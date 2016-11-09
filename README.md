@@ -9,6 +9,6 @@
 
 ### 使用
 > npm install
-npm start init express 初始化express项目
-npm start init koa 初始化koa项目
-npm start init koa-wechat 初始化koa-wechat项目
+> npm start init express 初始化express项目
+> npm start init koa 初始化koa项目
+> npm start init koa-wechat 初始化koa-wechat项目
