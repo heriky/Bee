@@ -1,0 +1,32 @@
+{
+  "name": "bee",
+  "version": "1.0.0",
+  "description": "Front end scaffold tool",
+  "main": "index.js",
+  "bin": {
+    "bee": "./bin/bee"
+  },
+  "scripts": {
+    "start": "node ./bin/bee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heriky/Bee.git"
+  },
+  "keywords": [
+    "front-end",
+    "scaffold"
+  ],
+  "author": "hk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heriky/Bee/issues"
+  },
+  "homepage": "https://github.com/heriky/Bee#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  }
+}
